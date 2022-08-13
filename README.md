@@ -12,7 +12,7 @@ This project is a simple template of an one page corporate website, it was coded
 
 ## Screenshot 3
 
-![Screenshot](Screenshot_2.jpg)
+![Screenshot](Screenshot_3.jpg)
 
 
 ## Technology Stack
