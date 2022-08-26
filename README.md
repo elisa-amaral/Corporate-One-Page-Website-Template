@@ -1,6 +1,6 @@
 # Corporate One Page Website Template
 
-This project is a simple template of an one page corporate website, it was coded in pure HTML and CSS.
+This project is a simple template of an one-page corporate website, it was coded in pure HTML and CSS.
 
 ## Screenshot 1
 
