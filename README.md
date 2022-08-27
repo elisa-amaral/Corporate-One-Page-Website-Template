@@ -2,6 +2,8 @@
 
 This project is a simple template of an one-page corporate website, it was coded in pure HTML and CSS.
 
+## Project Link (click to visit): https://corporate-one-pager-template.netlify.app/
+
 ## Screenshot 1
 
 ![Screenshot](Screenshot_1.jpg)
