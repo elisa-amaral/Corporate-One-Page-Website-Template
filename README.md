@@ -4,7 +4,7 @@ This project is a simple template of an one-page corporate website, it was coded
 
 ## Project Link
 
-The project is hosted at the link below, click the visit:
+Visit the project as a live website through the link below:
 https://corporate-one-pager-template.netlify.app/
 
 ## Screenshot 1
