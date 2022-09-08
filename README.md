@@ -1,4 +1,4 @@
-# Corporate One Page Website Template
+# Corporate One Page Website Template 
 
 This project is a simple one-page corporate website template.
 
