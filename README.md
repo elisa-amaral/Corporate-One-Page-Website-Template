@@ -1,6 +1,6 @@
 # Corporate One Page Website Template
 
-This project is a simple one-page corporate website template, it was coded in pure HTML and CSS.
+This project is a simple one-page corporate website template.
 
 ## Project Link
 **https://corporate-one-pager-template.netlify.app/**
@@ -19,6 +19,8 @@ This project is a simple one-page corporate website template, it was coded in pu
 
 
 ## Technology Stack
+
+The project was built with:
 
 + HTML
 + CSS
