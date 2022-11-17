@@ -2,7 +2,7 @@
 
 This project is a simple one-page corporate website template.
 
-## Project Link
+## Project Website
 **https://corporate-one-pager-template.netlify.app/**
 
 ## Screenshot 1
